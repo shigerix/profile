@@ -29,7 +29,7 @@
 ## できること
 - 言語
   - java
-  - PHP
+  - PHP <img src="https://snlab.jp/nicalabo/img/skill/icon_php.jpg)" width=13%>
   - Ruby
   - javascript
 - フレームワーク
