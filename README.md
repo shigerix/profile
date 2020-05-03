@@ -26,7 +26,7 @@
 
 ## できること
 - 言語
-  - java
+  - Java
   - PHP
   - Ruby
   - javascript
@@ -53,7 +53,7 @@
 開発以外にも、スクラムマスターや自社商品の販売イベントでお客様と折衝等担当。
 
 使用技術等
-Ruby , Ruby on Rails, AWS , javascript, backbone.js, coffee script等  
+Ruby , Ruby on Rails, AWS , javascript, backbone.js, coffee script, git , Github等  
   
 Jector  
 https://www.jector.com/
@@ -66,29 +66,37 @@ https://www.motionbase.jp/
 AWS 環境を使用したシステム開発を初めて経験。  
 
 使用技術等
-PHP , Cake PHP , AWS
+PHP , Cake PHP , AWS , SVN等
 
 https://idearecord.co.jp/service/tottokun/
 
 ### 株式会社 コンサイズ( 2013/12 ~ 2018/02 )
 前会社の一部の営業、エンジニアと移籍。  
 引き続き、小規模から大規模まで様々なシステム開発を担当。  
-このあたりから開発のみではなく、お客様とやり取りを行うようになりました。
+このあたりから開発のみではなく、お客様とやり取りを行うようになりました。  
+使用技術  
+Java , Spring , Mysql , Postgresql , Oracle , SVN , git , Github等  
 
 ### 株式会社 ラー・カイラム( 2012/11 ~ 2013/11 )
 小規模から大規模まで様々なシステム開発を担当。  
 初めて客先出向という勤務形態を経験。
+使用技術  
+PHP , Zend , Java , RAD ,  Mysql , Postgresql , Oracle , SVN等  
+
 
 ### 株式会社 アイ・エス・シー ( 2009/10 ~ 2012/10 )
 行政に関係したシステム開発、運用を担当。  
 稼働中のシステムの運用や顧客と折衝しつつシステム開発を行っておりました。  
+
+使用技術  
+PHP , Zend ,CodeIgniter , MySQL , SVN等  
 
 一部例
 [サイエンスチャンネル](https://sciencechannel.jst.go.jp/)
 
 ### 株式会社 コアズ(2009/04 ~ 09)
 システム開発を行う予定でしたが、リーマンショックの影響により  
-半年に及び研修後、システム事業部が潰れ  
+半年に及ぶ研修後、システム事業部が潰れ  
 １ヶ月半親会社の警備員業務を行っていました。  
 
 しかし、学生のときから学んでいたプログラミングの技術を活かした仕事をしたいと思い  
