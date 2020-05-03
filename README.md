@@ -44,7 +44,7 @@
 - DB
   - MySQL
   - postgreSQL
-  - Oracl
+  - Oracle
 
 ## 職務経歴
 
