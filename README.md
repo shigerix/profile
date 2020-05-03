@@ -33,9 +33,14 @@
 - フレームワーク
   - Spring
   - Spring Integration
+  - Play Framework
   - Cake PHP
+  - Zend Framework
   - Code Igniter
   - Ruby on Rails
+  - Ajax
+  - jQuery
+  - backbone.js
 - DB
   - MySQL
   - postgreSQL
